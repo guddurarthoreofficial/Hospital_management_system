@@ -74,3 +74,5 @@ app.use('/receipt',receipt);
 
 // app.use('/doctors/add_doctor',add_doc);
 // app.use('/doctors/add_doctor',add_doc);
+// app.use('/doctors/add_doctor',add_doc);
+// app.use('/doctors/add_doctor',add_doc);
